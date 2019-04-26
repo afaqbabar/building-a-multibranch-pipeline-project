@@ -15,6 +15,7 @@ pipeline {
     }
 
 //steps
+}
 
 def deploy(environment) {
 
@@ -24,4 +25,4 @@ def deploy(environment) {
 }
 
 
-}
+
